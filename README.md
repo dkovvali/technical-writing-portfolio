@@ -12,7 +12,7 @@ A guide explaining inclusive design principles, accessibility audits, and best p
 ### [Sample User Guide](./User_Guide/SampleUG.pdf)
 This user guide chapter provides configuration and deployment instructions for integrating LDAP-based directory services into the 4690 OS. It covers system requirements, configuration paramters, initialization steps, and security considerations. The documentation is structured for enterprise administrators and developers managing controller-based directory services.
 
-*Available as a PDF sample upon request*
+*Available as a PDF sample upon request!*
 
 ### [Sample Engineering Proposal](./Engineering_Proposal/KovvaliProposalRevision.pdf)
 (./Engineering_Proposal/KovvaliProposalRevision (1).pdf)
