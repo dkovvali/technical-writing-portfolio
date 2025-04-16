@@ -6,7 +6,7 @@ Hi! I’m passionate about making complex technology easy to understand. With a 
 
 ## 📄 Featured Projects
 
-### [Web Accessibility Guide](./Web_Accessibility_Guide)
+### [Web Accessibility Guide](./DKWritingSample.pdf)
 A guide explaining inclusive design principles, accessibility audits, and best practices.
 
 ### [Sample User Guide](./User_Guide)
