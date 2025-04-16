@@ -15,7 +15,6 @@ This user guide chapter provides configuration and deployment instructions for i
 *Available as a PDF sample upon request!*
 
 ### [Sample Engineering Proposal](./Engineering_Proposal/KovvaliProposalRevision.pdf)
-(./Engineering_Proposal/KovvaliProposalRevision (1).pdf)
 A professional proposal outlining the phased integration of Apple Vision Pro into enterprise sectors like healthcare, industrial design, and remote collaboration. The document includes engineering scope, deliverables, timeline, and ROI estimation. It demonstrates structured business communciation, proposal formatting, and technical storytelling for C-level stakeholders. 
 Tools Used: Google Docs, Overleaf
 
