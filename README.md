@@ -1,23 +1,25 @@
-# Deepshika Kovvali – Technical Writing Portfolio ✍️
+# Welcome to my portfolio! ✍️
 
-Welcome! I'm a technical writer and content developer with experience in IBM-style docs, UX documentation, accessibility, and dashboard-based data storytelling. Below are samples of my work.
+Hi! I’m passionate about making complex technology easy to understand. With a background in Computer Science and Psychology, I focus on creating clear, user-friendly documentation that bridges the gap between developers and users. My work spans developer guides, UX content, and accessibility-focused docs, all aimed at improving how people interact with technology. Below are samples of my work! 🙂
 
 ---
 
 ## 📄 Featured Projects
 
-### [IBM Getting Started Guide](./IBM_Getting_Started_Guide)
-Introductory documentation to help new users navigate IMS Explorer for Development.
-
-### [Accessibility in Software Documentation](./Accessibility_Guide)
+### [Web Accessibility Guide](./Web_Accessibility_Guide)
 A guide explaining inclusive design principles, accessibility audits, and best practices.
 
-### [Documentation QA Dashboard](./Documentation_QA_Dashboard)
-A Bootstrap/Google Charts dashboard to visualize style violations and readability.
+### [Sample User Guide](./User_Guide)
+This user guide chapter provides configuration and deployment instructions for integrating LDAP-based directory services into the 4690 OS. It covers system requirements, configuration paramters, initialization steps, and security considerations. The documentation is structured for enterprise administrators and developers managing controller-based directory services.
+
+*Available as a PDF sample upon request*
+
+### [Sample Engineering Proposal](./Engineering_Proposal)
+A professional proposal outlining the phased integration of Apple Vision Pro into enterprise sectors like healthcare, industrial design, and remote collaboration. The document includes engineering scope, deliverables, timeline, and ROI estimation. It demonstrates structured business communciation, proposal formatting, and technical storytelling for C-level stakeholders. 
+Tools Used: Google Docs, Overleaf
 
 ---
 
 ## 💻 Tools & Technologies
-DITA, Markdown, Vale, Git, GitHub, Bootstrap, Figma, Google Charts, Oxygen XML
-
+Java, Python, HTML, CSS, C++, DITA, Oxygen XML. Markdown, GitHub, Figma, Google Charts 
 📫 Contact: [LinkedIn](https://linkedin.com/in/deepshikakovvali) | deepshika.kovvali@gmail.com
