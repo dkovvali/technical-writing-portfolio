@@ -21,5 +21,6 @@ Tools Used: Google Docs, Overleaf
 ---
 
 ## 💻 Tools & Technologies
-Java, Python, HTML, CSS, C++, DITA, Oxygen XML. Markdown, GitHub, Figma, Google Charts 
+Java, Python, HTML, CSS, C++, DITA, Oxygen XML, Visual Studio Code, Markdown, GitHub, Figma, Canva
+
 📫 Contact: [LinkedIn](https://linkedin.com/in/deepshikakovvali) | deepshika.kovvali@gmail.com
